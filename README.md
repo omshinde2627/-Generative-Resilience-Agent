@@ -29,7 +29,7 @@ The Generative Resilience Agent (GRA) is an intelligent local climate adaptation
 - **Resource Optimization**: Intelligent allocation of local resources for maximum resilience impact
 - **Community-Centric Design**: Plans tailored to local knowledge, practices, and constraints
 
-### 📊 Dashboard Components
+### 🎛️ Dashboard Components
 - **Interactive Resilience Charts**: Visualize climate risks, adaptation progress, and community resilience metrics
 - **Adaptation Plan Designer**: Create and customize local climate adaptation strategies
 - **Scenario Comparison**: Compare multiple resilience pathways and their effectiveness
@@ -178,14 +178,6 @@ The project uses modern TypeScript with:
 - Path aliases for clean imports
 - Strict type checking
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 🔮 Future Enhancements
 
 - Mobile GRA application for field deployment
@@ -213,6 +205,3 @@ The AWS ImpactX Challenge at IIT Bombay is a prestigious competition focused on 
 - **Impact**: Direct empowerment of rural communities through localized resilience planning
 - **Innovation**: Generative AI for creating adaptive, context-specific climate solutions
 - **Sustainability**: Building long-term community resilience against climate change
----
-
-**Built with ❤️ for climate resilience in rural India**
