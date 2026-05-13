@@ -1,6 +1,7 @@
 # Generative Resilience Agent (GRA) — Local Climate Adaptation Planner
 
 An AI-powered Generative Resilience Agent designed to create hyper-local climate adaptation plans for rural communities in India. GRA leverages advanced AI and real-world agricultural data to generate personalized resilience strategies, helping farmers and communities adapt to changing climate conditions.
+https://www.genresai.me/
 
 ![GRA Logo](./logo_GRA.jpeg)
 
